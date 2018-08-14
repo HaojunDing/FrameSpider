@@ -13,3 +13,9 @@
 有两种方法可供调用 
 * get
 * post 
+
+添加cookie :
+使用前需要先实例化 Session()类
+分别为get 和 post 两种方法
+
+封装MD5加密 直接调用 md5() 方法即可 
